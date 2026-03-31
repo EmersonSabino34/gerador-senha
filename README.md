@@ -1,2 +1,3 @@
+
 ### Gerar senha.
 
