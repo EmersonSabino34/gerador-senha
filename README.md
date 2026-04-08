@@ -1,6 +1,4 @@
 
 
-
-
 ### Gerar senha.
 
