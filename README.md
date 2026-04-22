@@ -1,5 +1,3 @@
 
-
-
 ### Gerar senha.
 
